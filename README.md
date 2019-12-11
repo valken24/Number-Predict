@@ -1,4 +1,4 @@
-Detector Númerico
+# Detector Númerico
 
 En este repositorio es posible encontrar un modelo sencillo y muy fácil de comprender capaz de realizar detecciones númericas de un solo digito. El modelo consiste en una red convolucional sencilla implementada con la libreria keras y cuenta además con los pesos de entrenamiento y la arquitectura en formato JSON.
 Detalles
